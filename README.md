@@ -32,7 +32,8 @@ b) Escolha pelo menos dois pokemons diferentes para visualizar em seu projeto. E
 c) Os pokemons devem ser inseridos nacena que voce ja criou nas outras entregas e visualizados ao mesmo tempo.
 d) Ajustar as transformacoes geometricas para 3D;
 e) Incluir a projecao ortogonal ao projeto de visualizacao;
-6) Na entrega 06 o aluno devera incluir a projecao perspectiva ao projeto;
+
+6) devera incluir a projecao perspectiva ao projeto;
 
 7) a) Fazer os arremates finais para a entrega do projeto;
 b) incluir na interface algum mecanismo para as transformacoes no objeto e navegacao de camera;
