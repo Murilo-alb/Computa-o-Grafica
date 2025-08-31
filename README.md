@@ -1,4 +1,6 @@
 Serão 7 mini projetos que ao longo do semestre irão se complementar ate o sétimo onde será uma "versão final"
+Utilizando a ferramenta QtCreator na versão 17.0.0 com qmake.
+
 
 1) a) Implementar a lista de objetos virtuais (Display File) para pontos, retas e polıgonos;
 b) Visualizar os objetos do display file na interface do usuario; 
